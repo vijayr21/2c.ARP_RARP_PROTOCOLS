@@ -33,7 +33,6 @@ while True:
 ```
 ## OUPUT - ARP
 ![Screenshot 2024-05-11 163429](https://github.com/vijayr21/2c.ARP_RARP_PROTOCOLS/assets/149347607/7272bb22-0b82-4190-bc22-2d7ec277185f)
-
 ## PROGRAM - RARP
 ```
 import socket
